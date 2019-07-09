@@ -1,3 +1,12 @@
+
+<h1> A ReactJS Dice Roll Demo </h1>
+
+
+<img src="https://i.ibb.co/vdNgSx8/dice.png">
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
